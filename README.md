@@ -1,3 +1,2 @@
 # third-party-test
 
-arst
